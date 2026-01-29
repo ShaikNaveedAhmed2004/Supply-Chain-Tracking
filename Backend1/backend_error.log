@@ -1,0 +1,39 @@
+2025-11-28T19:16:54.743Z - Error in createBatch: Batch validation failed: productName: Path `productName` is required.
+ValidationError: Batch validation failed: productName: Path `productName` is required.
+    at Document.invalidate (/home/mukund/Desktop/chain-trace-main/node_modules/mongoose/lib/document.js:3365:32)
+    at validatePath (/home/mukund/Desktop/chain-trace-main/node_modules/mongoose/lib/document.js:3140:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async Promise.all (index 0)
+    at async model.$__validate (/home/mukund/Desktop/chain-trace-main/node_modules/mongoose/lib/document.js:3081:3)
+    at async model.validate (/home/mukund/Desktop/chain-trace-main/node_modules/mongoose/lib/document.js:2663:5)
+    at async model.validateBeforeSave (/home/mukund/Desktop/chain-trace-main/node_modules/mongoose/lib/plugins/validateBeforeSave.js:34:7)
+    at async Kareem.execPre (/home/mukund/Desktop/chain-trace-main/node_modules/kareem/index.js:65:24)
+    at async model.$__save (/home/mukund/Desktop/chain-trace-main/node_modules/mongoose/lib/model.js:369:5)
+    at async model.save (/home/mukund/Desktop/chain-trace-main/node_modules/mongoose/lib/model.js:609:5)
+
+2025-11-28T19:17:20.472Z - Error in createBatch: Batch validation failed: productName: Path `productName` is required.
+ValidationError: Batch validation failed: productName: Path `productName` is required.
+    at Document.invalidate (/home/mukund/Desktop/chain-trace-main/node_modules/mongoose/lib/document.js:3365:32)
+    at validatePath (/home/mukund/Desktop/chain-trace-main/node_modules/mongoose/lib/document.js:3140:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async Promise.all (index 0)
+    at async model.$__validate (/home/mukund/Desktop/chain-trace-main/node_modules/mongoose/lib/document.js:3081:3)
+    at async model.validate (/home/mukund/Desktop/chain-trace-main/node_modules/mongoose/lib/document.js:2663:5)
+    at async model.validateBeforeSave (/home/mukund/Desktop/chain-trace-main/node_modules/mongoose/lib/plugins/validateBeforeSave.js:34:7)
+    at async Kareem.execPre (/home/mukund/Desktop/chain-trace-main/node_modules/kareem/index.js:65:24)
+    at async model.$__save (/home/mukund/Desktop/chain-trace-main/node_modules/mongoose/lib/model.js:369:5)
+    at async model.save (/home/mukund/Desktop/chain-trace-main/node_modules/mongoose/lib/model.js:609:5)
+
+2025-11-28T19:18:40.934Z - Error in createBatch: Batch validation failed: productName: Path `productName` is required.
+ValidationError: Batch validation failed: productName: Path `productName` is required.
+    at Document.invalidate (/home/mukund/Desktop/chain-trace-main/node_modules/mongoose/lib/document.js:3365:32)
+    at validatePath (/home/mukund/Desktop/chain-trace-main/node_modules/mongoose/lib/document.js:3140:13)
+    at process.processTicksAndRejections (node:internal/process/task_queues:103:5)
+    at async Promise.all (index 0)
+    at async model.$__validate (/home/mukund/Desktop/chain-trace-main/node_modules/mongoose/lib/document.js:3081:3)
+    at async model.validate (/home/mukund/Desktop/chain-trace-main/node_modules/mongoose/lib/document.js:2663:5)
+    at async model.validateBeforeSave (/home/mukund/Desktop/chain-trace-main/node_modules/mongoose/lib/plugins/validateBeforeSave.js:34:7)
+    at async Kareem.execPre (/home/mukund/Desktop/chain-trace-main/node_modules/kareem/index.js:65:24)
+    at async model.$__save (/home/mukund/Desktop/chain-trace-main/node_modules/mongoose/lib/model.js:369:5)
+    at async model.save (/home/mukund/Desktop/chain-trace-main/node_modules/mongoose/lib/model.js:609:5)
+
